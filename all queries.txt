@@ -1,0 +1,53 @@
+-- Best Time of Day
+
+SELECT Shift, 
+COUNT(*) AS Squirrels,   
+ROUND((COUNT(*) / (SUM(COUNT(*)) OVER() )) * 100,1) AS Percentage
+FROM `squirrels-394320.squirrel_stuff.squirrels`
+WHERE Approaches = TRUE
+GROUP BY Shift;
+
+-- Number of Babies
+
+SELECT Age, 
+COUNT(*) AS Squirrels,   
+ROUND((COUNT(*) / (SUM(COUNT(*)) OVER() )) * 100,1) AS Percentage
+FROM `squirrels-394320.squirrel_stuff.squirrels`
+WHERE Age IS NOT NULL AND Age <> "?"
+GROUP BY Age;
+
+-- Percentage of friendly babies
+
+SELECT Age, 
+COUNT(*) AS Squirrels,   
+ROUND((COUNT(*) / (SUM(COUNT(*)) OVER() )) * 100,1) AS Percentage
+FROM `squirrels-394320.squirrel_stuff.squirrels`
+WHERE Approaches = TRUE AND Age IS NOT NULL
+GROUP BY Age
+ORDER BY Age;
+
+-- Time to find a squirrel
+
+SELECT Shift, 
+COUNT(*) AS Squirrels,   
+ROUND((COUNT(*) / (SUM(COUNT(*)) OVER() )) * 100,1) AS Percentage
+FROM `squirrels-394320.squirrel_stuff.squirrels`
+WHERE Approaches = TRUE
+GROUP BY Shift;
+
+
+--Average Squirrels Per Shift
+
+WITH cve2 AS(
+SELECT Unique_Squirrel_ID, Shift, 
+RTRIM(SUBSTRING(Unique_Squirrel_ID, 0, 3), '-') AS census_taker,
+TRIM(SUBSTRING(Unique_Squirrel_ID, 7, 5), '-') AS dates
+--TO_DATE(SPLIT_PART(Unique_Squirrel_ID, '-', 3), 'MMDD') AS date
+FROM `squirrels-394320.squirrel_stuff.squirrels`)
+
+SELECT ROUND(AVG(num_squirrels),1) AS average_squirrels
+FROM(SELECT COUNT(cve2.Unique_Squirrel_ID) AS num_squirrels 
+FROM cve2 
+GROUP BY cve2.Shift, cve2.census_taker, cve2.dates);
+
+
