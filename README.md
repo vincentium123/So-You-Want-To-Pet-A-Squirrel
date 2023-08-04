@@ -14,7 +14,8 @@ Luckily for us, they also recorded if the squirrels attempted to approach them t
 
 Nope! Our nice data collectors recorded whether they saw the squirrels in the morning or afternoon, and there’s no real difference. Go whenever you want. 
 
-![Pie](https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/time%20of%20day.png)
+<h3><img align="center" height="300" src="https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/time%20of%20day.png"></h3>
+
 
 **2. Can I pet a baby?** 
 
