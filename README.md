@@ -6,7 +6,7 @@ It’s a common desire. There’s only one problem: they’re fast. Our ancestor
 
 
 
-Luckily for us, they also recorded if the squirrels attempted to approach them to ask for food. With this information, and a little bit of code in SQL and visualization in Tableau, we can determine the best time and place to find a pettable squirrel. Code is located in the repository and the Tableau visualization can be found [here](https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1)
+Luckily for us, they also recorded if the squirrels attempted to approach them to ask for food. With this information, and a little bit of code in SQL and visualization in Tableau, we can determine the best time and place to find a pettable squirrel. Code is located in the repository and the Tableau visualization can be found [here.](https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1)
 
 ## FAQs 
 
