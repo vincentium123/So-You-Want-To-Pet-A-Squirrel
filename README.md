@@ -21,7 +21,8 @@ Nope! Our nice data collectors recorded whether they saw the squirrels in the mo
 
 Sure! Around 20% of the squirrels recorded were juveniles. Luckily for you, among the friendly squirrels, the proportion was the same. 
 
-![Babies](https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/age.png)
+<h3><img align="center" height="300" src="https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/age.png"></h3>
+
 
 **3. What can I feed my new squirrel buddy?**
 
@@ -31,7 +32,7 @@ Squirrels enjoy natural foods like whole nuts and seeds (walnuts, sunflower seed
 
 Alas, no. Of the squirrels in our dataset, only around 6% willingly approached the data collectors. Of course, the data collectors weren’t trying to pet a squirrel, just find them. If you wander around with a handful of nuts, you’ll probably improve your odds. 
 
-![Friendly](https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/percent%20friendly.png)
+<h3><img align="center" height="300" src="https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/percent%20friendly.png"></h3>
 
 **5. If I wander around the park at random, how likely am I to find a friendly squirrel?** 
 
