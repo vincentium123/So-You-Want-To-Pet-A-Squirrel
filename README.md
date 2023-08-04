@@ -2,8 +2,9 @@
 
 It’s a common desire. There’s only one problem: they’re fast. Our ancestors solved this through cunning traps or hand-raising a kitten (yes, really) from birth. Luckily, modern technology has graced us with a much less time-consuming solution: data-driven analytics. A few years ago, a group of people with frankly too much time on their hands spent several days walking through Central Park in New York City, recording every squirrel they saw. 
 
-![Perhaps this squirrel](https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/squirrel.jpeg)
+![Perhaps this squirrel](https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/squirrel.jpeg) 
 
+<h3><img align="center" height="30" src="https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/squirrel.jpeg"> TECHNOLOGIES</h3>
 
 
 Luckily for us, they also recorded if the squirrels attempted to approach them to ask for food. With this information, and a little bit of code in SQL and visualization in Tableau, we can determine the best time and place to find a pettable squirrel. Code is located in the repository and the Tableau visualization can be found [here.](https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1)
