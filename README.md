@@ -1,6 +1,6 @@
 # So You Want To Pet A Squirrel
 
-It’s a common desire. There’s only one problem: they’re fast. Our ancestors solved this through cunning traps or hand-raising a [kitten](https://smallpetsx.com/baby-squirrel-called/) (yes, really) from birth. Luckily, modern technology has graced us with a much less time-consuming solution: data-driven analytics. A few years ago, a group of people with frankly too much time on their hands spent several days walking through Central Park in New York City, recording every squirrel they saw. 
+It’s a common desire. There’s only one problem: they’re fast. Our ancestors solved this through cunning traps or hand-raising a [kitten] (https://smallpetsx.com/baby-squirrel-called/) (yes, really) from birth. Luckily, modern technology has graced us with a much less time-consuming solution: data-driven analytics. A few years ago, a group of people with frankly too much time on their hands spent several days walking through Central Park in New York City, recording every squirrel they saw. 
 
 
 <h3><img align="center" height="300" src="https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/squirrel.jpeg"> Example squirrel</h3>
