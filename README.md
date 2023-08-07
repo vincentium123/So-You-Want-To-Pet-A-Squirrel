@@ -36,7 +36,7 @@ Alas, no. Of the squirrels in our dataset, only around 6% willingly approached t
 
 **5. If I wander around the park at random, how likely am I to find a friendly squirrel?** 
 
-Depends how much time you want to put in! According to the [New York Times](https://www.nytimes.com/interactive/2020/01/08/nyregion/central-park-squirrel-census.html), one squirrel census shift lasted around twenty minutes. With a bit of help from SQL, we can see that in an average shift, volunteer would be expected to see 5 squirrels, so roughly one squirrel every four minutes. 
+Depends how much time you want to put in! According to the [New York Times](https://www.nytimes.com/interactive/2020/01/08/nyregion/central-park-squirrel-census.html), one squirrel census shift lasted around twenty minutes. With a bit of help from SQL, we can see that in an average shift, a volunteer would be expected to see 5 squirrels, so roughly one squirrel every four minutes. 
 
 Given that 6% of the squirrels are friendly, we can calculate a nice smooth cumulative probability curve. What’s clear here is that if you spend an hour in the park, you will most likely find a friendly squirrel (~60% odds). Spend two, and your odds jump up to over 80%. That’s pretty good. 
 
