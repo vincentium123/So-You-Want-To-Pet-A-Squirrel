@@ -48,7 +48,7 @@ However, we can’t have a guarantee that the first friendly squirrel will want 
 
 It’s still not bad if only half the friendly squirrels want pets, but if only one in three or five do then you might be wandering the park for a while. Add to this that we don’t actually know the true percentage of pettable squirrels, and it looks like we’d best be strategic. 
 
-Luckily, our squirrel census takers included their longitude and latitude everytime they spotted a squirrel. With this information (and a little help from Tableau), we can find the friendly squirrel hotspots. If you want, there’s an [interactive map on Tableau public with information on each squirrel](https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1).
+Luckily, our squirrel census takers included their longitude and latitude every time they spotted a squirrel. With this information (and a little help from Tableau), we can find the friendly squirrel hotspots. If you want, there’s an [interactive map on Tableau public with information on each squirrel](https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1).
 
 A Density Map of Friendly Central Park Squirrel Sightings
 <h3><img align="center" height="300" src="https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/central%20park%20squirrel%20density.JPG"></h3>
