@@ -103,7 +103,7 @@ Leider nein. Von den Eichhörnchen in unserem Datensatz kamen nur etwa 6% bereit
 
 **5. Wie wahrscheinlich ist es, dass ich ein freundliches Eichhörnchen treffe, wenn ich wahllos durch den Park gehe?** 
 
-Das hängt davon ab, wie viel Zeit Sie investieren wollen! Nach Angaben der [New York Times] (https://www.nytimes.com/interactive/2020/01/08/nyregion/central-park-squirrel-census.html) dauerte eine Schicht zur Eichhörnchenzählung etwa zwanzig Minuten. Mit ein wenig Hilfe von SQL können wir sehen, dass ein Freiwilliger in einer durchschnittlichen Schicht 5 Eichhörnchen sehen würde, also ungefähr ein Eichhörnchen alle vier Minuten. 
+Das hängt davon ab, wie viel Zeit Sie investieren wollen! Nach Angaben der [New York Times](https://www.nytimes.com/interactive/2020/01/08/nyregion/central-park-squirrel-census.html) dauerte eine Schicht zur Eichhörnchenzählung etwa zwanzig Minuten. Mit ein wenig Hilfe von SQL können wir sehen, dass ein Freiwilliger in einer durchschnittlichen Schicht 5 Eichhörnchen sehen würde, also ungefähr ein Eichhörnchen alle vier Minuten. 
 
 Da 6 % der Eichhörnchen freundlich sind, können wir eine schöne glatte kumulative Wahrscheinlichkeitskurve berechnen. Hier wird deutlich, dass Sie, wenn Sie eine Stunde im Park verbringen, höchstwahrscheinlich ein freundliches Eichhörnchen finden werden (~60 % Wahrscheinlichkeit). Verbringt man zwei Stunden, steigt die Wahrscheinlichkeit auf über 80 %. Das ist ziemlich gut. 
 
@@ -115,7 +115,7 @@ Wir können jedoch nicht garantieren, dass das erste freundliche Eichhörnchen s
 
 Es ist zwar nicht schlimm, wenn nur die Hälfte der freundlichen Eichhörnchen ein Haustier haben möchte, aber wenn es nur eines von drei oder fünf Eichhörnchen ist, kann es sein, dass du eine Weile im Park herumwandern musst. Hinzu kommt, dass wir den wahren Prozentsatz der streichelfähigen Eichhörnchen nicht kennen, und es sieht so aus, als ob wir besser strategisch vorgehen sollten. 
 
-Glücklicherweise haben unsere Eichhörnchenzähler jedes Mal, wenn sie ein Eichhörnchen gesehen haben, ihren Längen- und Breitengrad angegeben. Mit diesen Informationen (und ein wenig Hilfe von Tableau) können wir die Hotspots der freundlichen Eichhörnchen finden. Wenn Sie möchten, gibt es eine [interaktive Karte auf Tableau public mit Informationen zu jedem Eichhörnchen].(https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1).
+Glücklicherweise haben unsere Eichhörnchenzähler jedes Mal, wenn sie ein Eichhörnchen gesehen haben, ihren Längen- und Breitengrad angegeben. Mit diesen Informationen (und ein wenig Hilfe von Tableau) können wir die Hotspots der freundlichen Eichhörnchen finden. Wenn Sie möchten, gibt es eine [interaktive Karte auf Tableau public mit Informationen zu jedem Eichhörnchen](https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1).
 
 Eine Dichtekarte von freundlichen Eichhörnchen-Sichtungen im Central Park
 <h3><img align="center" height="300" src="https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/central%20park%20squirrel%20density.JPG"></h3>
