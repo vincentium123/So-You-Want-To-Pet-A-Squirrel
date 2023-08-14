@@ -73,7 +73,7 @@ Das ist ein allgemeiner Wunsch. Es gibt nur ein Problem: Sie sind schnell. Unser
 <h3><img align="center" height="300" src="https://github.com/vincentium123/So-You-Want-To-Pet-A-Squirrel/blob/main/images/squirrel.jpeg">Beispeil Eichhörnchen</h3>
 
 
-Zu unserem Glück wurde auch aufgezeichnet, ob die Eichhörnchen versuchten, sich ihnen zu nähern, um nach Futter zu fragen. Mit diesen Informationen und ein wenig Code in SQL und einer Visualisierung in Tableau können wir die beste Zeit und den besten Ort bestimmen, um ein streichelbares Eichhörnchen zu finden. Der Code befindet sich im Repository und die Tableau-Visualisierung finden Sie [hier].(https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1)
+Zu unserem Glück wurde auch aufgezeichnet, ob die Eichhörnchen versuchten, sich ihnen zu nähern, um nach Futter zu fragen. Mit diesen Informationen und ein wenig Code in SQL und einer Visualisierung in Tableau können wir die beste Zeit und den besten Ort bestimmen, um ein streichelbares Eichhörnchen zu finden. Der Code befindet sich im Repository und die Tableau-Visualisierung finden Sie [hier](https://public.tableau.com/app/profile/jonathan.vincent5335/viz/FriendlySquirrels/Sheet1#1).
 
 ## FAQs 
 
